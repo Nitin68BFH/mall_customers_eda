@@ -44,13 +44,11 @@ cd mall_customers_eda
 # Open the notebook
 jupyter notebook Untitled.ipynb
 ```
-📌 Key Findings
+## 🔑 Key Findings
 
-    👨 Male customers show a higher variance in spending than 👩 female customers.
-
-    📉 Correlation between Age and Spending Score is -0.33, suggesting that older customers tend to spend less.
-
-    📊 Scatter plots reveal clusters in the dataset, which may be used for customer segmentation.
+- 👨 Male customers show a higher variance in spending than 👩 female customers.
+- 📉 Correlation between Age and Spending Score is -0.33, suggesting that older customers tend to spend less.
+- 📊 Scatter plots reveal clusters in the dataset, which may be used for customer segmentation.
 
 📬 Contact
 
